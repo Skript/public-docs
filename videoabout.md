@@ -27,9 +27,9 @@ rzt4wdc06u-1080.mp4 успешно загружено``
 <br>
 Нужно нажать 0 или 1 и Enter
 <br>
-0 - Episode
+``0 - Episode``
 <br>
-1 - Trailer
+``1 - Trailer``
 <br>
 Дальше ты увидишь
 <br>
