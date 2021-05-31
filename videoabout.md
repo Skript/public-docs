@@ -33,11 +33,11 @@ rzt4wdc06u-1080.mp4 успешно загружено``
 <br>
 Дальше ты увидишь
 <br>
-Episode rZT4wDC06U updated
+``Episode rZT4wDC06U updated``
 <br>
 или
 <br>
-Story PR9SBjCA6e updated
+``Story PR9SBjCA6e updated``
 <br>
 Значит все готов, видосы в бакете, ссылка на них добавилась. Проверить можно в админке https://parse.zahleb.me/
 <br>
